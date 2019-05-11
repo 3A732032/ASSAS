@@ -12,7 +12,7 @@ namespace Lab2
         static MrWangConnection MrWangConnection;
         static void Main(string[] args)
         {
-
+            //45345
             //第一步.初始化API元件
             init();
 
